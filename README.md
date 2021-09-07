@@ -1,4 +1,8 @@
 # Hello world!
+First and foremost, here's a meme for you, kind stranger:
+<div align="center">
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+</div>
 
 I am Sriram Vasudevan, a 2nd year CSE student in Sathyabama Institute of Science and Technology, Chennai :india:. I love to code in Python and build stuff using the same :computer:. I am looking forward to learn advanced DSA and AI :robot:. 
 Know more about me <a href="https://sriram-bb63.github.io/">here</a>.
