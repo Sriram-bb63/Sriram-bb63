@@ -1,8 +1,7 @@
 # Hello world!
-<!-- <div align="center">
-<img src="cover.jpg" align="center">
-</div> -->
-<br />
+
+Hi there, kind visitor, here's a joke for you,
+<img src="https://readme-jokes.vercel.app/api?bgColor=%230d1927&qColor=%23a4ccd8&aColor=%23a4ccd8&hideBorder=true&textColor=%23a4ccd8&codeColor=%23a4ccd8" alt="Jokes Card" />
 I am Sriram Vasudevan, a 2nd year CSE student in Sathyabama Institute of Science and Technology, Chennai :india:. I love to code in Python and build stuff using the same :computer:. I am looking forward to learn advanced DSA and AI :robot:. 
 Know more about me <a href="https://sriram-bb63.github.io/">here</a>.
 
