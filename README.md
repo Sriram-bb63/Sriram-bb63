@@ -3,6 +3,7 @@ First and foremost, here's a meme for you, kind stranger:
 <div align="center">
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 </div>
+<br />
 
 I am Sriram Vasudevan, a 2nd year CSE student in Sathyabama Institute of Science and Technology, Chennai :india:. I love to code in Python and build stuff using the same :computer:. I am looking forward to learn advanced DSA and AI :robot:. 
 Know more about me <a href="https://sriram-bb63.github.io/">here</a>.
@@ -15,7 +16,8 @@ which translates to "Devote your heart".
 Other general stuff I like include cartography :world_map:, geography :national_park:, history :hourglass_flowing_sand: and geopolitics :globe_with_meridians:. As you would have guessed by the quote above, one of my favorite show is AoT and the other is Avatar: The Last Airbender. Hit me up anytime if you wanna talk about any of these stuff.
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sriram-bb63&show_icons=true&theme=synthwave&border_radius=0&title_color=a4ccd8&text_color=a4ccd8&icon_color=a4ccd8&bg_color=0d1927&custom_title=Github stats&card_width=1000px">
+<img src="https://github-readme-stats.vercel.app/api?username=Sriram-bb63&show_icons=true&theme=synthwave&border_radius=0&title_color=a4ccd8&text_color=a4ccd8&icon_color=a4ccd8&bg_color=0d1927&custom_title=Github stats">
+<br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram-bb63&layout=compact&bg_color=0d1927&text_color=a4ccd8&title_color=a4ccd8">
 </div>
 
