@@ -13,7 +13,7 @@ I am a big fan of
 
 which translates to "Devote your heart".
 
-Other general stuff I like include cartography :world_map:, geography :national_park:, history :hourglass_flowing_sand: and geopolitics :globe_with_meridians:. As you would have guessed by the quote above, one of my favorite show is AoT and the other is Avatar: The Last Airbender. Hit me up anytime if you wanna talk about any of these stuff.
+Other general stuff I like include cartography :world_map:, geography :national_park:, history :hourglass_flowing_sand: and geopolitics :globe_with_meridians:. As you would have guessed by the quote above, one of my favorite show is AoT and the other is Avatar: The Last Airbender. I like to cook, read books and watch films although the last one is quite rare compared to others. Hit me up anytime if you wanna talk about any of these stuff.
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Sriram-bb63&show_icons=true&theme=synthwave&border_radius=0&title_color=a4ccd8&text_color=a4ccd8&icon_color=a4ccd8&bg_color=0d1927&custom_title=Github stats">
