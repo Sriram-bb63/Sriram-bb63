@@ -1,7 +1,7 @@
 # Hello world!
 
 <div align="center">
-<img width=500 src='cover.jpg' title="cover" alt="">
+<img src='cover.jpg' title="cover" alt="">
 </div>
 <br />
 
