@@ -5,7 +5,8 @@
 </div>
 <br />
 
-I am Sriram Vasudevan, a 2nd year CSE student in Sathyabama Institute of Science and Technology, Chennai :india:. I love to code in Python and build stuff using the same :computer:. I am looking forward to learn something new everyday. 
+I am Sriram Vasudevan, a 2nd year CSE student in Sathyabama Institute of Science and Technology, Chennai :india:. I love to code in Python and build stuff using the same :computer:. I am looking forward to learn something new everyday.
+ 
 Know more about me <a href="https://sriram-bb63.github.io/">here</a>.
 
 <!-- I am a big fan of 
