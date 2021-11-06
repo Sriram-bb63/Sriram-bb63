@@ -20,8 +20,6 @@ Check out my page to know more about me <a href="https://sriram-bb63.github.io/"
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Sriram-bb63&show_icons=true&theme=synthwave&border_radius=0&title_color=a4ccd8&text_color=a4ccd8&icon_color=a4ccd8&bg_color=0d1927&custom_title=Github stats">
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram-bb63&layout=compact&bg_color=0d1927&text_color=a4ccd8&title_color=a4ccd8">
-<br />
 <img src="https://activity-graph.herokuapp.com/graph?username=Sriram-bb63&bg_color=0d1927&color=8aafba&line=8aafba&point=8aafba&area_color==8aafba&hide_border=true&custom_title=Contribution%20Graph">
 </div>
 
