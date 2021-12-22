@@ -5,15 +5,7 @@
 </div>
 <br />
 
-I am Sriram Vasudevan, a 2nd year CSE student in Sathyabama Institute of Science and Technology, Chennai :india:. I love to code in Python and build stuff using the same :computer:. I am looking forward to learn something new everyday.
-
-
-<!-- I am a big fan of 
-> "Shinzou wo sasageyo" <br> - Commander Erwin Smith (Attack on Titan)
-
-which translates to "Devote your heart". -->
-
-Other general stuff I like include cartography :world_map:, geography :national_park:, history :hourglass_flowing_sand: and geopolitics :globe_with_meridians:. My favorite shows are Avatar: The Last Airbender, Attack on Titan and Jujutsu Kaisen. I like to cook, read books and watch movies. Hit me up anytime if you wanna talk about any of these stuff. 
+I am Sriram Vasudevan, a 2nd year CSE student in Sathyabama Institute of Science and Technology, Chennai :india:.
 
 Check out my page to know more about me <a href="https://sriram-bb63.github.io/">https://sriram-bb63.github.io</a>.
 
