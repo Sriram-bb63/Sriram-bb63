@@ -10,8 +10,10 @@ I am Sriram Vasudevan, a 3rd year CSE student at Sathyabama Institute of Science
 Check out my page to know more about me <a href="https://sriram-bb63.github.io/">https://sriram-bb63.github.io</a>.
 
 <div align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=Sriram-bb63&bg_color=0d1927&color=8aafba&line=8aafba&point=8aafba&area_color==8aafba&hide_border=true&custom_title=Contribution%20Graph">
+<img src="https://activity-graph.herokuapp.com/graph?username=Sriram-bb63&bg_color=0d1117&color=4b8dda&line=4b8dda&point=4b8dda&area_color=4b8dda&hide_border=true&custom_title=Contribution%20Graph" width=70%>
+<img src="https://github-readme-stats.vercel.app/api?username=Sriram-bb63&theme=github_dark&show_icons=true">
 </div>
+
 
 You can reach out to me via:
 - <a href="https://sriram-bb63.github.io/" target="_blank">Portfolio</a>
